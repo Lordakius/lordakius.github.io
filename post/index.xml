@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bach Meer Ozean</title>
+    <link>https://bachmeerozean.de/post/</link>
+    <description>Recent content in Posts on Bach Meer Ozean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bachmeerozean.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EP-Release Party</title>
+      <link>https://bachmeerozean.de/post/ep-release/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bachmeerozean.de/post/ep-release/</guid>
+      <description>Liebe Musikbegeisterte,
+wir feiern den Release unserer Debut-EP mit einem Konzert nie dagewesenen Ausmaßes am 12. Oktober in der Junction Bar. Einlass ist ab 19:30 und um 20 Uhr spielt die Musik. Als Support ist Danny Bogacki am Start. Wir sind stolz euch einmal in voller Länge vorzustellen, was wir die letzten Jahre geschrieben, arrangiert und aufgenommen haben. Anschließend gibt es ein gemütliches Beisammensein und die Möglichkeit die EP sowie brandneuen Bach Meer Ozean Merch zu erwerben.</description>
+    </item>
+    
+    <item>
+      <title>Neue Website</title>
+      <link>https://bachmeerozean.de/post/neue-website/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bachmeerozean.de/post/neue-website/</guid>
+      <description>Hej all!
+Wir haben (mal wieder) ein neues Design, da Brahms offensichtlich zu viel Zeit hat. Es sieht noch etwas kahl aus, das sollten wir aber bald mit Inhalt gefüllt haben, schaut also regelmäßig vorbei (oder nervt Brahms) ;)</description>
+    </item>
+    
+  </channel>
+</rss>
